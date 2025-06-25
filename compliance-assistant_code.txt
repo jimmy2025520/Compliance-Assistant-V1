@@ -1,0 +1,6 @@
+Compliance-Assistant-V1/
+├── app.py          # Streamlit主程序
+├── requirements.txt # Python依赖
+├── scraper/        # 爬虫模块
+│   └── reach_scraper.py
+└── utils.py        # 工具函数
